@@ -1,0 +1,12 @@
+{
+  "content": "@everyone",
+  "embeds": [
+    {
+     "thumbnail": {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJoFicibDBMBi9MVFWg1oENjnb4UNewdPPVo4avMYuWvgTR1_m"},
+    "title": "Une nouvelle vidéo vient d'être publiée",
+    "description": "\nBon visionage et n'hesite pas à commenter\n\n[Team Brami](https://link.clasofclans.com/?action=OpenClanProfile&tag=82YRLQY)\n\n",
+    "color": 167772
+  }
+ ]
+}
